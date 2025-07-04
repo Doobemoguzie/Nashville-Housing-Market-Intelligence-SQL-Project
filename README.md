@@ -112,7 +112,7 @@ Used a `CTE` to calculate neighborhood averages, then flagged homes:
 I’m **Doobem**, an aspiring data analyst focused on **SQL-powered business analytics**.  
 I love using raw data to tell stories, find opportunities, and solve real-world problems.
 
-📫 [LinkedIn](https://www.linkedin.com/in/prosper-oguzie-54a706336) | [Portfolio](#) | [Email Address](prosperoguzie379@gmail.com)
+📫 [LinkedIn](https://www.linkedin.com/in/prosper-oguzie-54a706336) | [Portfolio](#) 
 
 ---
 
